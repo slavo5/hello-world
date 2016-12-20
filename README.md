@@ -1,3 +1,0 @@
-# hello-world
-to be familiar
-minor changes only some words without meaning ....
